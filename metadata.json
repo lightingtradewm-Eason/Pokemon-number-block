@@ -1,0 +1,6 @@
+{
+  "name": "SumBound: Number Puzzle",
+  "description": "A high-stakes math elimination game. Match numbers to reach the target sum before the blocks reach the top.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
